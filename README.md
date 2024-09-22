@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **Information Security Analyst at Resillion**
 
-- 🌱 I’m currently learning **learning advanced cybersecurity frameworks and enrolling in courses like CISSP and OSCP**
+- 🌱 I’m currently learning **Advanced cybersecurity frameworks and enrolling in courses like CISSP and OSCP**
 
 - 👯 I’m looking to collaborate on **Blue Team activities to strengthen defense mechanisms.**
 
