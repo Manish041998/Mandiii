@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish041998" alt="manish041998" /></a> </p>
 
-- 🔭 I’m currently working on **Information Security Analyst at Resillion**
+- 🔭 I’m currently working as **Information Security Analyst at Resillion**
 
 - 🌱 I’m currently learning **learning advanced cybersecurity frameworks and enrolling in courses like CISSP and OSCP**
 
